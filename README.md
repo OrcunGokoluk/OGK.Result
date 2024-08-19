@@ -63,10 +63,10 @@ public class Example
 ```
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Contact
-For any questions or feedback, please contact Or�un G�koluk.
+For any questions or feedback, please contact with me.
 
 ## Source Code
 
