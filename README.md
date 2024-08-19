@@ -43,7 +43,7 @@ else
 }
 ```
 
-##Example
+## Example
 Here is a complete example demonstrating how to use EasyResult:
 
 ```csharp
@@ -66,7 +66,7 @@ public class Example
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any questions or feedback, please contact Orçun Gökoluk.
+For any questions or feedback, please contact Orï¿½un Gï¿½koluk.
 
 ## Source Code
 
