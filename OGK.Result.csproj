@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>OGK.EasyResult</PackageId>
+    <Title>OGK.EasyResult</Title>
+    <Version>8.0.0</Version>
+    <Authors>Orçun Gökoluk</Authors>
+    <Product>OGK.EasyResult</Product>
+    <Description>This Result Pattern Library is a lightweight NuGet package designed to help you standardize responses in your applications. It provides a simple and flexible way to handle success and failure outcomes, particularly useful in API responses or business logic flows.</Description>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="LICENSE.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
